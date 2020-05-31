@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About
+title: Что тут происходит
 permalink: /about/
-image: images/01.jpg
 ---
 
-Hi, my name is Sasha Levi. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+Однажды я сидела в баре с другом, который на тот момент не имел опыта с "этим вашим машинным обучением". В тот вечер я рассказывала ему, как работают нейросети, и даже рисовала схему на салфетке. Друг тогда заинтересовался, решил разобраться в теме и реализовал несколько своих моделей from scratch.
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan.
+Тут я поняла, что каждый раз, когда меня спрашивают "скажи, где про это почитать?", я затрудняюсь что-то посоветовать человеку, незнакомому с Data Science и ML. Материалы по машинному обучению в основном делятся на два типа: 1) рассчитанные на студентов математических специальностей, курсы или статьи, которые с порога кидают в тебя пачкой формул, и 2) маркетинговые материалы, рассказывающие, что ML - это модно и перспективно, приводя круглые циферки зарплат и "примеры реальных кейсов".
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
+![это я]({{site.baseurl}}/images/me.png)
 
-#### Industry Design & Media
-
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg.
+Меня зовут Аня, я закончила НГУ в Новосибирске. Cейчас живу в Хельсинки и работаю NLU-инженером в компании, которая занимается распознаванием речи.
