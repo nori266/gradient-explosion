@@ -20,7 +20,7 @@
   line-height: 18px;
   letter-spacing: 0.5px;
   color: $gray;
-  
+
   a {
     display: inline-block;
     color: lighten($dark, 10%);
@@ -37,7 +37,7 @@
     content: ",";
     display: inline-block;
   }
-  
+
   &:last-child {
     &:after {
       content: "";
@@ -76,7 +76,7 @@
 .share__item {
   display: inline-block;
   margin-right: 5px;
-  
+
   &:last-child {
     margin-right: 0px;
   }
@@ -90,7 +90,7 @@
   line-height: 35px;
   color: #fff;
   cursor: pointer;
-  
+
   &:hover {
     color: #fff;
   }
@@ -119,11 +119,11 @@
 
 .recent-box {
   display: flex;
-  
+
   .recent-posts {
     width: 30%;
     margin-left: 5%;
-    
+
     &:first-child {
       margin-left: 0;
     }
@@ -205,7 +205,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  
+
   .newsletter-email {
     height: 45px;
     width: 285px;
@@ -213,7 +213,7 @@
     padding: 15px;
     font-size: 13px;
   }
-  
+
   .newsletter-button {
     height: 45px;
     width: 120px;
@@ -225,7 +225,7 @@
     color: #fff;
     background-color: $dark;
     cursor: pointer;
-    
+
     &:hover {
       background-color: $brand-color;
     }
@@ -238,4 +238,22 @@
       margin-bottom: 15px;
     }
   }
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #000000;
+    width: 90%;
+    padding-left: 5px;
+}
+
+th {
+    border:1px solid #000000;
+    padding-left: 5px;
+}
+
+td {
+    border:1px solid #000000;
+    padding-left: 5px;
 }

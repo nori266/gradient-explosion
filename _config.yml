@@ -1,8 +1,9 @@
 title: Gradient Explosion
 logo: "" # You can add own logo image.
 description: Эссе и объяснение концептов машинного обучения.
-baseurl: "/gradient-explosion" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/gradient-explosion"
+url: "https://nori266.github.io"
+twitter_username: nori_acami
 
 # Author Settings
 author:
@@ -25,7 +26,7 @@ footer-image: images/aurora.jpg
 disqus-identifier: anna-gradients-explosion
 
 # Google Analytics
-google-analytics: "" # Add your identifier. For example UA-99631805-1.
+google-analytics: ""
 
 # Newsletter
 mailchimp: ""
