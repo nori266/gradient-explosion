@@ -260,3 +260,11 @@ td {
     border:1px solid #000000;
     padding-left: 5px;
 }
+
+a {
+  color: #199fbd;
+
+  &:hover {
+    color: #6a9fba;
+  }
+}
