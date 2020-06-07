@@ -23,7 +23,7 @@ hero-image: images/aurora.jpg
 footer-image: images/aurora.jpg
 
 # Comment Section (Disqus)
-disqus-identifier: anna-gradients-explosion
+disqus-identifier: gradient-explosion
 
 # Google Analytics
 google-analytics: ""
