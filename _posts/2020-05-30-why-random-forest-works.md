@@ -2,7 +2,7 @@
 layout: post
 title:  Почему Random Forest работает?
 subtitle: И как он помогает разбираться в грибах и вине
-date:   2020-06-07
+date:   2020-05-30
 image:  images/girl-forest.jpg
 tags:   [ML-алгоритмы]
 ---
